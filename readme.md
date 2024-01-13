@@ -1,3 +1,4 @@
 ## Project Goal
-//Build an app that allow a user to enter two numbers 
-//And show us the result in the console
+// Allow a use to enter any number they want
+// to convert from miles to kilometer. 
+// hint: use the prompt() to ask for use input

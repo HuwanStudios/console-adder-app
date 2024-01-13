@@ -21,8 +21,8 @@ console.log(displayMessage);
 console.log(typeof displayMessage);
 
 
-//const roundedNumber = parseFloat || Number (displayMessage);
-//Pass Number through to retrieve only the number and change data type 
+//4.A const roundedNumber = parseFloat || Number (displayMessage);
+//4.B Pass Number through to retrieve only the number and change data type 
 const roundedNumber = Number(converter);
-//console.log()result) // number 
+//4.C console.log()result) // number 
 console.log(roundedNumber);
